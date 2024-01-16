@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web Security**
 
-- 💬 Ask me about **Technology - Backend Development , AI , Web Security and Javascript**
+- 💬 Ask me about **Technology - Web Security and Javascript**
 
 - 📫 How to reach me **fatma302@gmail.com**
 
