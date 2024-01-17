@@ -3,7 +3,7 @@
 
 <p align="left">  🚀 Passionate Software Engineer | Enthusiastic about building innovative solutions and contributing to the tech community. 🌱 Currently, my focus is on honing my skills in Web Security, ensuring robust and secure applications. I enjoy tackling complex problems and turning ideas into code. Excited to collaborate on projects that make a positive impact. 💬 Let's code and create together! 💻✨ </p>
 
-- 📫 I cab be reach at **fatma302@gmail.com**
+- 📫 I can be reach at **fatma302@gmail.com**
 
 <h3 align="left">Languages: </h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
