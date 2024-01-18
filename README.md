@@ -3,25 +3,47 @@
 
 <p align="left">  🚀 A Software Engineer who is enthusiastic about building innovative solutions and contributing to the tech community. 🌱 Currently, my focus is on honing my skills in Web Security, ensuring robust and secure applications. I enjoy tackling complex problems and turning ideas into code. Excited to collaborate on projects that make a positive impact. 💬 Let's code and create together! 💻✨ </p>
 
-- 📫 I can be reach at **fatma302@gmail.com**
+### 🧰 Languages and Tools
 
-<h3 align="left">Languages: </h3>
-<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-</p>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
+<br />
 
-<h3 align="left">Books: </h3>
+### 📚 Favorite Technical Books 
 <ol>
-  <li> The Pragmatic Programmer </li>
-  <li> Distributed Systems with Node.js </li>
-  <li> Web Security for Developers </li>
-  <li> JavaScript Data Structures and Algorithms </li>
+  <li><strong>The Pragmatic Programmer</strong> by David Thomas and Andrew Hunt </li>
+  <li><strong>The Phoenix Project</strong> by by Gene Kim , Kevin Behr and George Spafford</li>
+  <li><strong>Ghost In The Wires </strong> by Kevin Mitnick </li>
+  <li><strong>A Hacker's Mind</strong> by Bruce Schneier </li>
+<!--   <li><strong>JavaScript Data Structures and Algorithms</strong> by Sammie Bae</li> -->
+  <li><strong>Distributed Systems with Node.js</strong> by Thomas Hunter || </li>
 </ol>
+<h4 align="left"> Currently Reading 📖 </h4>
+<ul>
+   <li><strong>Web Security for Developers</strong> by Malcolm Mcdonald</li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmazaman&show_icons=true&locale=en&layout=compact" alt="fatmazaman" /></p>
+### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatmazaman&show_icons=true&locale=en" alt="fatmazaman" /></p>
+![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmazaman&show_icons=true&theme=gruvbox)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmazaman&" alt="fatmazaman" /></p>
+<details>
+ <summary><h3> 👩🏻‍💻 Fatma's Story</h3></summary>
+ <p>Hey there! I'm a Senior Software Engineer, crafting solutions to real-world problems through the art of cutting-edge technology. My journey kicks off with a solid foundation – I hold both a bachelor's and master's degree 👩🏻‍🎓 in computer science. Still, there's this constant wonder 😶‍🌫️ about how all these pieces seamlessly work together. It's a curious ride that keeps me going 🏃🏻‍♀️</p>  
+<p>I consider myself fortunate to have worked across various industries, 🏭 including service-based, product-based, and even within the dynamic environment of an 8-person startup. Each project I take is like a puzzle 🧐, presenting unique challenges that have not only shaped me professional as well as personal level too. What intrigues 🤔 me most is understanding why we opt for specific language tool and technologies in order to get the job done ✔️ </p>
+<p>Beyond the glow of computer screens 📺 , you'll often find me in bookstores  or libraries – my absolute favorite places on earth. I can spend hours flipping through titles and exploring all kinds of books 📚 . Additionally, meditation 🧘🏼‍♀️ and long walks🚶🏻‍♀️ in nature keep me grounded, especially during challenging times.</p>
+
