@@ -1,7 +1,7 @@
 
 <h1 align="center"> A Software Engineer Who Enjoy Reading </h1>
 
-<p align="left">  🚀 Passionate Software Engineer | Enthusiastic about building innovative solutions and contributing to the tech community. 🌱 Currently, my focus is on honing my skills in Web Security, ensuring robust and secure applications. I enjoy tackling complex problems and turning ideas into code. Excited to collaborate on projects that make a positive impact. 💬 Let's code and create together! 💻✨ </p>
+<p align="left">  🚀 A Software Engineer who is enthusiastic about building innovative solutions and contributing to the tech community. 🌱 Currently, my focus is on honing my skills in Web Security, ensuring robust and secure applications. I enjoy tackling complex problems and turning ideas into code. Excited to collaborate on projects that make a positive impact. 💬 Let's code and create together! 💻✨ </p>
 
 - 📫 I can be reach at **fatma302@gmail.com**
 
@@ -14,9 +14,10 @@
 
 <h3 align="left">Books: </h3>
 <ol>
-  <li>The Pragmatic Programmer</li>
-  <li>Distributed Systems with Node.js</li>
-  <li>Web Security for Developers</li>
+  <li> The Pragmatic Programmer </li>
+  <li> Distributed Systems with Node.js </li>
+  <li> Web Security for Developers </li>
+  <li> JavaScript Data Structures and Algorithms </li>
 </ol>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmazaman&show_icons=true&locale=en&layout=compact" alt="fatmazaman" /></p>
