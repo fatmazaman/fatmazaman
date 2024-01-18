@@ -22,19 +22,20 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
 <br />
+<br />
 
 ### 📚 Favorite Technical Books 
 <ol>
-  <li><strong>The Pragmatic Programmer</strong> by David Thomas and Andrew Hunt </li>
-  <li><strong>The Phoenix Project</strong> by by Gene Kim , Kevin Behr and George Spafford</li>
-  <li><strong>Ghost In The Wires </strong> by Kevin Mitnick </li>
-  <li><strong>A Hacker's Mind</strong> by Bruce Schneier </li>
+  <li><strong>The Pragmatic Programmer</strong> - David Thomas and Andrew Hunt </li>
+  <li><strong>The Phoenix Project</strong> - Gene Kim , Kevin Behr and George Spafford</li>
+  <li><strong>Ghost In The Wires </strong> - Kevin Mitnick </li>
+  <li><strong>A Hacker's Mind</strong> - Bruce Schneier </li>
 <!--   <li><strong>JavaScript Data Structures and Algorithms</strong> by Sammie Bae</li> -->
-  <li><strong>Distributed Systems with Node.js</strong> by Thomas Hunter || </li>
+  <li><strong>Distributed Systems with Node.js</strong> - Thomas Hunter || </li>
 </ol>
 <h4 align="left"> Currently Reading 📖 </h4>
 <ul>
-   <li><strong>Web Security for Developers</strong> by Malcolm Mcdonald</li>
+   <li><strong>Web Security for Developers</strong> - Malcolm Mcdonald</li>
 </ul>
 
 ### 📊 Stats
