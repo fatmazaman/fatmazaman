@@ -35,7 +35,7 @@
 <h4 align="left"> Currently Reading 📖 </h4>
 <ul>
    <li><strong>Web Security for Developers</strong> - Malcolm Mcdonald</li>
-   <li><strong>JavaScript Data Structures and Algorithms</strong> by Sammie Bae</li> 
+   <li><strong>JavaScript Data Structures and Algorithms</strong> - Sammie Bae</li> 
 </ul>
 
 ### 📊 Stats
