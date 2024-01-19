@@ -30,12 +30,12 @@
   <li><strong>The Phoenix Project</strong> - Gene Kim , Kevin Behr and George Spafford</li>
   <li><strong>Ghost In The Wires </strong> - Kevin Mitnick </li>
   <li><strong>A Hacker's Mind</strong> - Bruce Schneier </li>
-<!--   <li><strong>JavaScript Data Structures and Algorithms</strong> by Sammie Bae</li> -->
   <li><strong>Distributed Systems with Node.js</strong> - Thomas Hunter || </li>
 </ol>
 <h4 align="left"> Currently Reading 📖 </h4>
 <ul>
    <li><strong>Web Security for Developers</strong> - Malcolm Mcdonald</li>
+   <li><strong>JavaScript Data Structures and Algorithms</strong> by Sammie Bae</li> 
 </ul>
 
 ### 📊 Stats
