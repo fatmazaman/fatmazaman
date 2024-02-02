@@ -34,7 +34,7 @@
   <li><strong>Distributed Systems with Node.js</strong> ⭐️⭐️⭐️⭐️ - Thomas Hunter || </li>
 </ol>
 <h4 align="left"> Currently Reading 📖 </h4>
-<ul> 
+    <li><strong>Algorithms To Live By</strong> - Brian Christian & Tom Griffiths </li>
    <li><strong>JavaScript Data Structures and Algorithms</strong> - Sammie Bae</li> 
 </ul>
 
