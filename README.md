@@ -35,7 +35,8 @@
 </ol>
 <h4 align="left"> Currently Reading 📖 </h4>
     <li><strong>Algorithms To Live By</strong> - Brian Christian & Tom Griffiths </li>
-   <li><strong>JavaScript Data Structures and Algorithms</strong> - Sammie Bae</li> 
+<!--    <li><strong>JavaScript Data Structures and Algorithms</strong> - Sammie Bae</li>  -->
+<li><strong> Automating with NODE.JS</strong> - Shaun Michael Stone </li> 
 </ul>
 
 ### 📊 Stats
