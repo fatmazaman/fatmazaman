@@ -31,7 +31,7 @@
   <li><strong>The Phoenix Project</strong> ⭐️⭐️⭐️ - Gene Kim , Kevin Behr and George Spafford</li>
   <li><strong>Ghost In The Wires </strong> ⭐️⭐️⭐️ - Kevin Mitnick </li>
   <li><strong>A Hacker's Mind</strong> ⭐️⭐️⭐️⭐️⭐️ - Bruce Schneier </li>
-  <li><strong>Distributed Systems with Node.js</strong> ⭐️⭐️⭐️⭐️ - Thomas Hunter || </li>
+<!--   <li><strong>Distributed Systems with Node.js</strong> ⭐️⭐️⭐️⭐️ - Thomas Hunter || </li> -->
 </ol>
 <h4 align="left"> Currently Reading 📖 </h4>
     <li><strong>Algorithms To Live By</strong> - Brian Christian & Tom Griffiths </li>
