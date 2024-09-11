@@ -1,7 +1,6 @@
+<h1 align="center"> A Software Engineer Who Simply Enjoys Reading </h1>
 
-<h1 align="center"> A Software Engineer Who Enjoy Reading </h1>
-
-<p align="left">  🚀 A Software Engineer who is enthusiastic about building innovative solutions and contributing to the tech community. 🌱 Currently, my focus is on honing my skills in Web Security, ensuring robust and secure applications. I enjoy tackling complex problems and turning ideas into code. Excited to collaborate on projects that make a positive impact. 💬 Let's code and create together! 💻✨ </p>
+<p align="left"> 🚀 A Software Engineer who is enthusiastic about building innovative solutions and contributing to the tech community. 🌱 Currently, my focus is on honing my skills in Web Security, ensuring robust and secure applications. I enjoy tackling complex problems and turning ideas into code. Excited to collaborate on projects that make a positive impact. 💬 Let's code and create together! 💻✨ </p>
 
 ### 🧰 Languages and Tools
 
@@ -26,18 +25,16 @@
 
 ### 📚 Favorite Technical Books 
 <ol>
-  <li><strong>The Pragmatic Programmer</strong> ⭐️⭐️⭐️⭐️ - David Thomas and Andrew Hunt </li>
-  <li><strong>Web Security for Developers</strong> ⭐️⭐️⭐️⭐️ - Malcolm Mcdonald</li>
-  <li><strong>The Phoenix Project</strong> ⭐️⭐️⭐️ - Gene Kim , Kevin Behr and George Spafford</li>
-  <li><strong>Ghost In The Wires </strong> ⭐️⭐️⭐️ - Kevin Mitnick </li>
-  <li><strong>A Hacker's Mind</strong> ⭐️⭐️⭐️⭐️⭐️ - Bruce Schneier </li>
-<!--   <li><strong>Distributed Systems with Node.js</strong> ⭐️⭐️⭐️⭐️ - Thomas Hunter || </li> -->
+  <li><strong>The Pragmatic Programmer</strong> ⭐️⭐️⭐️⭐️⭐️ David Thomas and Andrew Hunt </li>
+  <li><strong>A Hacker's Mind</strong> ⭐️⭐️⭐️⭐️⭐️ Bruce Schneier </li>
+  <li><strong>Web Security for Developers</strong> ⭐️⭐️⭐️⭐️ Malcolm Mcdonald</li>
+  <li><strong>The Phoenix Project</strong> ⭐️⭐️⭐️ Gene Kim, Kevin Behr, and George Spafford</li>
+  <li><strong>Ghost In The Wires</strong> ⭐️⭐️⭐️ Kevin Mitnick </li>
 </ol>
+
 <h4 align="left"> Currently Reading 📖 </h4>
-    <li><strong> Coding with AI</strong> - Chris Minnick </li> 
-    <li><strong>Algorithms To Live By</strong> - Brian Christian & Tom Griffiths </li>
-<!--    <li><strong>JavaScript Data Structures and Algorithms</strong> - Sammie Bae</li>  -->
-<!-- <li><strong> Automating with NODE.JS</strong> - Shaun Michael Stone </li>  -->
+<ul>
+  <li><strong>The Code Book</strong> The Science Of Secrecy From Ancient Egypt To Quantum Cryptography by Simon Singh </li> 
 </ul>
 
 ### 📊 Stats
@@ -47,6 +44,6 @@
 <details>
  <summary><h3> 👩🏻‍💻 Fatma's Story</h3></summary>
  <p>Hey there! I'm a Senior Software Engineer, crafting solutions to real-world problems through the art of cutting-edge technology. My journey kicks off with a solid foundation – I hold both a bachelor's and master's degree 👩🏻‍🎓 in computer science. Still, there's this constant wonder 😶‍🌫️ about how all these pieces seamlessly work together. It's a curious ride that keeps me going 🏃🏻‍♀️</p>  
-<p>I consider myself fortunate to have worked across various industries, 🏭 including service-based, product-based, and even within the dynamic environment of an 8-person startup. Each project I take is like a puzzle 🧐, presenting unique challenges that have not only shaped me professional as well as personal level too. What intrigues 🤔 me most is understanding why we opt for specific language tool and technologies in order to get the job done ✔️ </p>
-<p>Beyond the glow of computer screens 📺 , you'll often find me in bookstores  or libraries – my absolute favorite places on earth. I can spend hours flipping through titles and exploring all kinds of books 📚 . Additionally, meditation 🧘🏼‍♀️ and long walks🚶🏻‍♀️ in nature keep me grounded, especially during challenging times.</p>
-
+ <p>I consider myself fortunate to have worked across various industries, 🏭 including service-based, product-based, and even within the dynamic environment of an 8-person startup. Each project I take is like a puzzle 🧐, presenting unique challenges that have not only shaped me professionally but also on a personal level. What intrigues 🤔 me most is understanding why we opt for specific languages, tools, and technologies to get the job done ✔️ </p>
+ <p>Beyond the glow of computer screens 📺, you'll often find me in bookstores or libraries – my absolute favorite places on earth. I can spend hours flipping through titles and exploring all kinds of books 📚. Additionally, meditation 🧘🏼‍♀️ and long walks 🚶🏻‍♀️ in nature keep me grounded, especially during challenging times.</p>
+</details>
