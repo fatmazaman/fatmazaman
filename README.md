@@ -1,7 +1,6 @@
 <h1 align="center"> A Software Engineer Who Simply Enjoys Reading </h1>
 
-Hi 👋 I’m **Fatma Zaman**, a software engineer who believes that technology — much like reading — is about curiosity, patience, and discovery.  
-Over the past decade, I’ve worked across service-based, product, and fintech industries, building secure, scalable, and user-centered systems.
+Hi 👋 I’m **Fatma Zaman**, a software engineer who believes that technology — much like reading — is about curiosity, patience, and discovery. Over the past decade, I’ve worked across service-based, product, and fintech industries, building secure, scalable, and user-centered systems.
 
 Lately, my curiosity has led me toward the evolving edges of **quantitative systems, AI-assisted decision-making, and intelligent automation** — exploring how data, logic, and intuition intertwine.
 
