@@ -1,27 +1,28 @@
 <h1 align="center"> A Software Engineer Who Simply Enjoys Reading </h1>
 
-<p align="left"> 🚀 A Software Engineer who is enthusiastic about building innovative solutions and contributing to the tech community. 🌱 Currently, my focus is on honing my skills in Web Security, ensuring robust and secure applications. I enjoy tackling complex problems and turning ideas into code. Excited to collaborate on projects that make a positive impact. 💬 Let's code and create together! 💻✨ </p>
+Hi 👋 I’m **Fatma Zaman**, a software engineer who believes that technology — much like reading — is about curiosity, patience, and discovery.  
+Over the past decade, I’ve worked across service-based, product, and fintech industries, building secure, scalable, and user-centered systems.
 
-### 🧰 Languages and Tools
+Lately, my curiosity has led me toward the evolving edges of **quantitative systems, AI-assisted decision-making, and intelligent automation** — exploring how data, logic, and intuition intertwine.
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
-<br />
-<br />
+---
+
+### 🧭 What I’m Currently Building  
+I’m creating **`unified_trading_dashboard`**, a modular platform that connects live market data, algorithmic trading models, and AI-powered insights — designed for clarity, control, and curiosity.
+
+It’s both a technical project and a personal pursuit — blending my love for logic, design, and continuous learning.
+
+---
+
+### ⚙️ Technical Snapshot
+**Languages:** Python · JavaScript/TypeScript   
+**Frameworks:** Dash · Node.js · React · Angular  
+**Cloud & DevOps:** AWS (ECS, Lambda, S3) · Docker · Kubernetes  
+**Data & Analytics:** PostgreSQL · Datadog · Pandas · Backtrader  
+**Focus Areas:** Secure Development · Quant Systems · Intelligent Automation  
+
+---
+
 
 ### 📚 Favorite Technical Books 
 <ol>
@@ -32,18 +33,17 @@
   <li><strong>Ghost In The Wires</strong> ⭐️⭐️⭐️ Kevin Mitnick </li>
 </ol>
 
-<h4 align="left"> Currently Reading 📖 </h4>
-<ul>
-  <li><strong>The Code Book</strong> The Science Of Secrecy From Ancient Egypt To Quantum Cryptography by Simon Singh </li> 
-</ul>
+---
 
-### 📊 Stats
+### 📚 Beyond Code  
+When I’m not building, I’m reading — not just books, but systems, people, and patterns.  
+I love how stories and technologies both reveal structure beneath chaos.  
 
-![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmazaman&show_icons=true&theme=gruvbox)
+> “I build systems the way I read stories — slowly, curiously, and with a sense of wonder.”
 
-<details>
- <summary><h3> 👩🏻‍💻 Fatma's Story</h3></summary>
- <p>Hey there! I'm a Senior Software Engineer, crafting solutions to real-world problems through the art of cutting-edge technology. My journey kicks off with a solid foundation – I hold both a bachelor's and master's degree 👩🏻‍🎓 in computer science. Still, there's this constant wonder 😶‍🌫️ about how all these pieces seamlessly work together. It's a curious ride that keeps me going 🏃🏻‍♀️</p>  
- <p>I consider myself fortunate to have worked across various industries, 🏭 including service-based, product-based, and even within the dynamic environment of an 8-person startup. Each project I take is like a puzzle 🧐, presenting unique challenges that have not only shaped me professionally but also on a personal level. What intrigues 🤔 me most is understanding why we opt for specific languages, tools, and technologies to get the job done ✔️ </p>
- <p>Beyond the glow of computer screens 📺, you'll often find me in bookstores or libraries – my absolute favorite places on earth. I can spend hours flipping through titles and exploring all kinds of books 📚. Additionally, meditation 🧘🏼‍♀️ and long walks 🚶🏻‍♀️ in nature keep me grounded, especially during challenging times.</p>
-</details>
+---
+
+
+### 🌍 Connect  
+- [💼 LinkedIn](https://www.linkedin.com/in/fatmazaman)  
+- [📧 Email](mailto:fatma302@gmail.com)  
