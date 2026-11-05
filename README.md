@@ -20,11 +20,13 @@ I design and ship backend services and APIs in **Node.js/TypeScript** and **Pyth
 
 ### ⚙️ Stack
 
-**Languages:** TypeScript / JavaScript · Python  
-**Backend:** Node.js · Fastify · Express · REST APIs · PostgreSQL  
-**Cloud & DevOps:** AWS (ECS, Lambda, S3) · Docker · Kubernetes · Datadog  
-**Frontend (as needed):** React · Angular · Dash  
-**Practices:** Secure development · API design · Automated testing · Observability
+**AI & AI-assisted development:** Claude Code · GitHub Copilot · Google Gemini · BMAD workflows · Model Context Protocol (MCP)  
+**Languages:** JavaScript / TypeScript · Python · HTML · CSS  
+**Frameworks & APIs:** Node.js · NestJS · Fastify · Angular · React · Vue.js · GraphQL · REST APIs · Jest · Mocha · Postman · ReadyAPI  
+**Identity & application security:** Authentication · secure application design · OWASP Top 10 · Burp Suite · OWASP ZAP  
+**Cloud & DevOps:** AWS (ECS, EC2, S3, SNS, Lambda, API Gateway, Kinesis, Lex) · Azure · Docker · Kubernetes · Jenkins · GitHub  
+**Databases & observability:** PostgreSQL · MySQL · Oracle · DynamoDB · MongoDB Atlas · Redis · Datadog · Splunk · Sentry · AppDynamics  
+**Architecture & methods:** Microservices · event-driven architecture · domain-driven design · micro-frontends · Agile / Scrum · DevOps · SRE
 
 ### 📚 Beyond code
 
