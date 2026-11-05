@@ -1,48 +1,40 @@
-<h1 align="center"> A Software Engineer Who Simply Enjoys Reading </h1>
+<h1 align="center">Fatma Zaman — Backend & API Engineer</h1>
 
-Hi 👋 I’m **Fatma Zaman**, a software engineer who believes that technology — much like reading — is about curiosity, patience, and discovery. Over the past decade, I’ve worked across service-based, product, and fintech industries, building secure, scalable, and user-centered systems.
-
-Lately, my curiosity has led me toward the evolving edges of **quantitative systems, AI-assisted decision-making, and intelligent automation** — exploring how data, logic, and intuition intertwine.
-
----
-
-### 🧭 What I’m Currently Building  
-I’m creating **`unified_trading_dashboard`**, a modular platform that connects live market data, algorithmic trading models, and AI-powered insights — designed for clarity, control, and curiosity.
-
-It’s both a technical project and a personal pursuit — blending my love for logic, design, and continuous learning.
+<p align="center">
+  Ten years building secure, scalable backend systems across service, product and fintech companies.<br/>
+  <strong>Open to backend / API engineering roles</strong>
+</p>
 
 ---
 
-### ⚙️ Technical Snapshot
-**Languages:** Python · JavaScript/TypeScript   
-**Frameworks:** Dash · Node.js · React · Angular  
-**Cloud & DevOps:** AWS (ECS, Lambda, S3) · Docker · Kubernetes  
-**Data & Analytics:** PostgreSQL · Datadog · Pandas · Backtrader  
-**Focus Areas:** Secure Development · Quant Systems · Intelligent Automation  
+### 🔎 What I do
 
----
+I design and ship backend services and APIs in **Node.js/TypeScript** and **Python**, with a focus on security, reliability and clear tests. I deploy on **AWS** (ECS, Lambda, S3) with **Docker** and **Kubernetes**, and I use **Datadog** and **PostgreSQL** day to day.
 
+### 🧱 Selected projects
 
-### 📚 Favorite Technical Books 
-<ol>
-  <li><strong>The Pragmatic Programmer</strong> ⭐️⭐️⭐️⭐️⭐️ David Thomas and Andrew Hunt </li>
-  <li><strong>A Hacker's Mind</strong> ⭐️⭐️⭐️⭐️⭐️ Bruce Schneier </li>
-  <li><strong>Web Security for Developers</strong> ⭐️⭐️⭐️⭐️ Malcolm Mcdonald</li>
-  <li><strong>The Phoenix Project</strong> ⭐️⭐️⭐️ Gene Kim, Kevin Behr, and George Spafford</li>
-  <li><strong>Ghost In The Wires</strong> ⭐️⭐️⭐️ Kevin Mitnick </li>
-</ol>
+| Project | What it shows |
+| --- | --- |
+| [**claude-learning-api**](https://github.com/fatmazaman/claude-learning-api) | Fastify 5 + TypeScript API with bearer-token auth that fails closed, rate limiting, security headers, log redaction, and Jest tests for the 401/503 paths. Includes a project security-review skill. |
+| [**uphold-bot**](https://github.com/fatmazaman/uphold-bot) | Containerized Node.js service that polls the Uphold ticker every 5 seconds and alerts on price oscillation across currency pairs. Built for a backend engineering assessment. |
+| [**interview-test-mock-api**](https://github.com/fatmazaman/interview-test-mock-api) | TypeScript/Express client that fetches outage data from a mock API, filters it by spec, and posts the results back. |
+| [**unified_trading_dashboard**](https://github.com/fatmazaman/unified_trading_dashboard) | Python Dash/Plotly dashboard for live market data and algorithmic modeling (work in progress). |
 
----
+### ⚙️ Stack
 
-### 📚 Beyond Code  
-When I’m not building, I’m reading — not just books, but systems, people, and patterns.  
-I love how stories and technologies both reveal structure beneath chaos.  
+**Languages:** TypeScript / JavaScript · Python  
+**Backend:** Node.js · Fastify · Express · REST APIs · PostgreSQL  
+**Cloud & DevOps:** AWS (ECS, Lambda, S3) · Docker · Kubernetes · Datadog  
+**Frontend (as needed):** React · Angular · Dash  
+**Practices:** Secure development · API design · Automated testing · Observability
 
-> “I build systems the way I read stories — slowly, curiously, and with a sense of wonder.”
+### 📚 Beyond code
 
----
+I read a lot, and my favorite technical books shape how I build:
+_The Pragmatic Programmer_ · _A Hacker's Mind_ · _Web Security for Developers_
 
+> "I build systems the way I read stories — slowly, curiously, and with a sense of wonder."
 
-### 🌍 Connect  
-- [💼 LinkedIn](https://www.linkedin.com/in/fatmazaman)  
-- [📧 Email](mailto:fatma302@gmail.com)  
+### 🌍 Connect
+
+[💼 LinkedIn](https://www.linkedin.com/in/fatmazaman) · [📧 Email](mailto:fatma302@gmail.com)
