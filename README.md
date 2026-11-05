@@ -1,8 +1,7 @@
 <h1 align="center">Fatma Zaman — Backend & API Engineer</h1>
 
 <p align="center">
-  Ten years building secure, scalable backend systems across service, product and fintech companies.<br/>
-  <strong>Open to backend / API engineering roles</strong>
+  Ten years building secure, scalable backend systems across service, product and fintech companies.
 </p>
 
 ---
@@ -17,7 +16,6 @@ I design and ship backend services and APIs in **Node.js/TypeScript** and **Pyth
 | --- | --- |
 | [**claude-learning-api**](https://github.com/fatmazaman/claude-learning-api) | Fastify 5 + TypeScript API with bearer-token auth that fails closed, rate limiting, security headers, log redaction, and Jest tests for the 401/503 paths. Includes a project security-review skill. |
 | [**uphold-bot**](https://github.com/fatmazaman/uphold-bot) | Containerized Node.js service that polls the Uphold ticker every 5 seconds and alerts on price oscillation across currency pairs. Built for a backend engineering assessment. |
-| [**interview-test-mock-api**](https://github.com/fatmazaman/interview-test-mock-api) | TypeScript/Express client that fetches outage data from a mock API, filters it by spec, and posts the results back. |
 | [**unified_trading_dashboard**](https://github.com/fatmazaman/unified_trading_dashboard) | Python Dash/Plotly dashboard for live market data and algorithmic modeling (work in progress). |
 
 ### ⚙️ Stack
